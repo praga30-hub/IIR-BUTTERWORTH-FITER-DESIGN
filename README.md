@@ -1,4 +1,4 @@
-# EXP 3 : IIR-BUTTERWORTH-FITER-DESIGN
+# EXP 3A : IIR-BUTTERWORTH-FITER-DESIGN
 
 ## AIM: 
 
@@ -261,8 +261,6 @@ exec: Wrong number of output argument(s): 0 expected.
 
 ## OUTPUT (HPF) : 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eafcf838-251a-49a2-93ec-a1785e767d97" />
-
-
 ## RESULT: 
 Thus the code is verified sucessfully.
 
